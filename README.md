@@ -1,3 +1,29 @@
+## Project: Random Users App
+
+## Visulation of the App
+
+![image](./random-users.png)
+
+
+## Description
+```bash
+- User can pick any random user
+- User can see user's info such as name, email and phone number
+```
+
+## Overview
+I mastered HTML, CSS, JavaScript, Tailwind CSS and React features in this project. You can see the visual representation of the app above.
+
+## Technologies 💻
+```bash
+- React(useState)
+- JavaScript
+- HTML/CSS
+- Tailwind CSS
+```
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
