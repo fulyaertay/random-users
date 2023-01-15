@@ -16,7 +16,7 @@ I mastered HTML, CSS, JavaScript, Tailwind CSS and React features in this projec
 
 ## Technologies 💻
 ```bash
-- React(useState)
+- React(useState,useEffect)
 - JavaScript
 - HTML/CSS
 - Tailwind CSS
