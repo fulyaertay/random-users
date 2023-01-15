@@ -28,7 +28,7 @@ function PickUsers() {
   },[])
 
   return (
-    <div className="container bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 flex w-50 mx-auto m-10 p-10 justify-center ">
+    <div className="container rounded bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 flex w-[400px] mx-auto m-10 p-10 justify-center ">
       <div className='profileContainer text-center'>
         <img className="m-5 w-max-auto mx-auto rounded-full " layout="cover" src={profileImage}/>
         <h1>{profileName}</h1>
