@@ -20,7 +20,7 @@ I mastered HTML, CSS, JavaScript, Tailwind CSS and React features in this projec
 - JavaScript
 - HTML/CSS
 - Tailwind CSS
-- Random User API ("https://randomuser.me/api")
+- [Random User API] ("https://randomuser.me/api")
 ```
 
 
