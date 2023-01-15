@@ -4,6 +4,11 @@
 
 ![image](./random-users.png)
 
+## Animation of the App
+
+![image](./random-users.gif)
+
+
 
 ## Description
 ```bash
