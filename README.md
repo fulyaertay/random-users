@@ -2,7 +2,7 @@
 
 ## Visulation of the App
 
-![image](./random-users.png)
+![image](./random-user.png)
 
 ## Animation of the App
 
