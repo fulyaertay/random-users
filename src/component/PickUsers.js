@@ -38,7 +38,7 @@ function PickUsers() {
         <p>{event.profileEmail}</p>
         <p>{event.profileCell}</p>
 
-        <button className='m-5 inline-block px-6 py-2.5 bg-purple-600 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:bg-purple-700 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out' onClick={event.profileData}>Pick a Random Profile</button>
+        <button className='m-5 inline-block px-6 py-2.5 bg-purple-600 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:bg-purple-700 hover:shadow-lg focus:bg-purple-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-purple-800 active:shadow-lg transition duration-150 ease-in-out' onClick={profileData}>Pick a Random Profile</button>
       </div>
     </div>
   );
